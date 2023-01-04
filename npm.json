@@ -43,7 +43,7 @@
           "maintenance": 0.3120376594914854
         }
       },
-      "searchScore": 0.00003263278
+      "searchScore": 0.00003266417
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.33332397921227447
         }
       },
-      "searchScore": 0.000022314016
+      "searchScore": 0.000022335482
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.2759766541996709
         }
       },
-      "searchScore": 0.000016082064
+      "searchScore": 0.000016097534
     },
     {
       "package": {
@@ -178,7 +178,7 @@
           "maintenance": 0.3260599904329782
         }
       },
-      "searchScore": 0.0000018224064
+      "searchScore": 0.0000018241595
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.33310418399739516
         }
       },
-      "searchScore": 0.0000010964837
+      "searchScore": 0.0000010975385
     },
     {
       "package": {
@@ -264,7 +264,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.4590695e-7
+      "searchScore": 3.4623974e-7
     },
     {
       "package": {
@@ -308,7 +308,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.7364137e-7
+      "searchScore": 1.738084e-7
     },
     {
       "package": {
@@ -354,7 +354,7 @@
           "maintenance": 0.2759766541996709
         }
       },
-      "searchScore": 1.2204929e-7
+      "searchScore": 1.221667e-7
     },
     {
       "package": {
@@ -402,7 +402,7 @@
           "maintenance": 0.07586441944701425
         }
       },
-      "searchScore": 4.0563663e-8
+      "searchScore": 4.0602686e-8
     },
     {
       "package": {
@@ -447,7 +447,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.571043e-8
+      "searchScore": 1.5725544e-8
     },
     {
       "package": {
@@ -489,7 +489,7 @@
           "maintenance": 0.3235377314975129
         }
       },
-      "searchScore": 1.2918188e-8
+      "searchScore": 1.2930616e-8
     },
     {
       "package": {
@@ -526,7 +526,7 @@
           "maintenance": 0.2759766541996709
         }
       },
-      "searchScore": 9.911032e-9
+      "searchScore": 9.920567e-9
     },
     {
       "package": {
@@ -574,7 +574,7 @@
           "maintenance": 0.33158526504835456
         }
       },
-      "searchScore": 2.4176794e-9
+      "searchScore": 2.4200053e-9
     },
     {
       "package": {
@@ -620,7 +620,7 @@
           "maintenance": 0.19800967744418438
         }
       },
-      "searchScore": 9.068949e-10
+      "searchScore": 9.077673e-10
     },
     {
       "package": {
@@ -662,7 +662,7 @@
           "maintenance": 0.33158526504835456
         }
       },
-      "searchScore": 7.1362893e-10
+      "searchScore": 7.1431544e-10
     },
     {
       "package": {
@@ -698,7 +698,7 @@
           "maintenance": 0.33158526504835456
         }
       },
-      "searchScore": 6.326079e-10
+      "searchScore": 6.332165e-10
     },
     {
       "package": {
@@ -747,7 +747,7 @@
           "maintenance": 0.07586441944701425
         }
       },
-      "searchScore": 4.6861764e-10
+      "searchScore": 4.6906845e-10
     },
     {
       "package": {
@@ -765,7 +765,10 @@
         ],
         "date": "2020-03-28T14:49:29.400Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/wonderful-bing-wallpaper"
+          "npm": "https://www.npmjs.com/package/wonderful-bing-wallpaper",
+          "homepage": "https://github.com/surmon-china/wonderful-bing-wallpaper#readme",
+          "repository": "https://github.com/surmon-china/wonderful-bing-wallpaper",
+          "bugs": "https://github.com/surmon-china/wonderful-bing-wallpaper/issues"
         },
         "author": {
           "name": "Surmon",
@@ -788,14 +791,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19174968400438375,
+        "final": 0.19170689476106947,
         "detail": {
           "quality": 0.5261670529427259,
-          "popularity": 0.020991489471745606,
+          "popularity": 0.020869234490847734,
           "maintenance": 0.07586441944701425
         }
       },
-      "searchScore": 4.05859e-10
+      "searchScore": 4.0445178e-10
     },
     {
       "package": {
@@ -841,7 +844,7 @@
           "maintenance": 0.1477005648673038
         }
       },
-      "searchScore": 2.8767383e-10
+      "searchScore": 2.8795055e-10
     },
     {
       "package": {
@@ -889,29 +892,29 @@
           "maintenance": 0.07586441944701425
         }
       },
-      "searchScore": 2.0435202e-10
+      "searchScore": 2.045486e-10
     }
   ],
   "downloads": {
-    "vuniversal": 500,
-    "vue-codemirror": 2496141,
-    "mongodb-data-api": 1329,
-    "@videojs-player/react": 3903,
-    "@videojs-player/vue": 41138,
-    "veact-use": 667,
-    "vue-stacks-editor": 91,
-    "@surmon-china/libundler": 2934,
     "vue-quill-editor": 3803821,
-    "veact": 869,
-    "simple-netease-cloud-music": 2876,
-    "vue-touch-ripple": 10125,
-    "vue-awesome-swiper": 7990358,
-    "vue-video-player": 1103441,
-    "player.ts": 84,
-    "emoji-233333": 2055,
-    "naivebayes": 750,
-    "@surmon/libundler": 85,
+    "vue-codemirror": 2496141,
     "vue-drag-zone": 3676,
+    "vue-video-player": 1103441,
+    "simple-netease-cloud-music": 2876,
+    "vuniversal": 500,
+    "vue-awesome-swiper": 7990358,
+    "veact-use": 667,
+    "vue-touch-ripple": 10125,
+    "@surmon-china/libundler": 2934,
+    "mongodb-data-api": 1329,
+    "emoji-233333": 2055,
+    "veact": 869,
+    "player.ts": 84,
+    "naivebayes": 750,
+    "vue-stacks-editor": 91,
+    "@videojs-player/react": 3903,
+    "@surmon/libundler": 85,
+    "@videojs-player/vue": 41138,
     "wonderful-bing-wallpaper": 1995
   }
 }
