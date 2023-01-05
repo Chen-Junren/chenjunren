@@ -3080,7 +3080,7 @@
       "clone_url": "https://github.com/surmon-china/surmon-china.git",
       "svn_url": "https://github.com/surmon-china/surmon-china",
       "homepage": "",
-      "size": 5295,
+      "size": 4558,
       "stargazers_count": 13,
       "watchers_count": 13,
       "language": "JavaScript",
@@ -5605,7 +5605,7 @@
     }
   ],
   "statistics": {
-    "size": 948918,
+    "size": 948181,
     "stars": 32777,
     "forks": 6216,
     "open_issues": 901,
