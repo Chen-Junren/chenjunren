@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.40202300685316017,
+        "final": 0.40205010265833396,
         "detail": {
-          "quality": 0.6196581283579381,
-          "popularity": 0.30396186052638274,
-          "maintenance": 0.31353976331869954
+          "quality": 0.6196579620011932,
+          "popularity": 0.30396187779997336,
+          "maintenance": 0.31361730522281533
         }
       },
-      "searchScore": 0.000033134125
+      "searchScore": 0.000033131022
     },
     {
       "package": {
@@ -79,14 +79,14 @@
         ]
       },
       "score": {
-        "final": 0.3986283266528062,
+        "final": 0.39862890848400045,
         "detail": {
-          "quality": 0.6477392870288826,
-          "popularity": 0.25040851490622856,
-          "maintenance": 0.33332445807703265
+          "quality": 0.6477393229984364,
+          "popularity": 0.25041012150311565,
+          "maintenance": 0.33332448302394013
         }
       },
-      "searchScore": 0.000022325677
+      "searchScore": 0.00002230693
     },
     {
       "package": {
@@ -127,14 +127,14 @@
         ]
       },
       "score": {
-        "final": 0.3855166978802807,
+        "final": 0.38559158680672256,
         "detail": {
-          "quality": 0.6454191546983742,
-          "popularity": 0.26819530167009953,
-          "maintenance": 0.2800645596749532
+          "quality": 0.6454192354333966,
+          "popularity": 0.2681953265079936,
+          "maintenance": 0.28027843399687385
         }
       },
-      "searchScore": 0.000016792279
+      "searchScore": 0.000016815475
     },
     {
       "package": {
@@ -171,14 +171,14 @@
         ]
       },
       "score": {
-        "final": 0.3370510924559647,
+        "final": 0.3370610664568326,
         "detail": {
-          "quality": 0.5329334394362264,
-          "popularity": 0.17967189272614387,
-          "maintenance": 0.32653113763127556
+          "quality": 0.532933320564232,
+          "popularity": 0.1796761578913811,
+          "maintenance": 0.3265554715016561
         }
       },
-      "searchScore": 0.0000018352789
+      "searchScore": 0.0000018343908
     },
     {
       "package": {
@@ -213,14 +213,14 @@
         ]
       },
       "score": {
-        "final": 0.3390772981278253,
+        "final": 0.3390775586096965,
         "detail": {
-          "quality": 0.6372972511366419,
-          "popularity": 0.08942089775773046,
-          "maintenance": 0.33311659591893444
+          "quality": 0.637297215085661,
+          "popularity": 0.08942102767272483,
+          "maintenance": 0.3331172411386987
         }
       },
-      "searchScore": 0.0000010969261
+      "searchScore": 0.0000010959873
     },
     {
       "package": {
@@ -257,14 +257,14 @@
         ]
       },
       "score": {
-        "final": 0.31576599271618117,
+        "final": 0.3157665933015096,
         "detail": {
-          "quality": 0.5947968943470229,
-          "popularity": 0.05902930784402188,
+          "quality": 0.594796483858153,
+          "popularity": 0.059031375649705925,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.4619072e-7
+      "searchScore": 3.4590474e-7
     },
     {
       "package": {
@@ -301,14 +301,14 @@
         ]
       },
       "score": {
-        "final": 0.3051661322975417,
+        "final": 0.3051681200155647,
         "detail": {
-          "quality": 0.5955268821062075,
-          "popularity": 0.028118288568607964,
+          "quality": 0.5955264801305548,
+          "popularity": 0.02812431231351893,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.7397714e-7
+      "searchScore": 1.7384973e-7
     },
     {
       "package": {
@@ -347,14 +347,14 @@
         ]
       },
       "score": {
-        "final": 0.29892478988289545,
+        "final": 0.29899973240540745,
         "detail": {
-          "quality": 0.6454191546983742,
-          "popularity": 0.02078985024899881,
-          "maintenance": 0.2800645596749532
+          "quality": 0.6454192354333966,
+          "popularity": 0.020790028218521734,
+          "maintenance": 0.28027843399687385
         }
       },
-      "searchScore": 1.2984789e-7
+      "searchScore": 1.3015446e-7
     },
     {
       "package": {
@@ -395,14 +395,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.27488661031175826,
+        "final": 0.27496448312099003,
         "detail": {
-          "quality": 0.8192428467214581,
-          "popularity": 0.0037110202846896406,
-          "maintenance": 0.07947114055908422
+          "quality": 0.819249661974284,
+          "popularity": 0.0037232527052493336,
+          "maintenance": 0.07967556023390734
         }
       },
-      "searchScore": 4.322492e-8
+      "searchScore": 4.334986e-8
     },
     {
       "package": {
@@ -440,14 +440,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2588683022168581,
+        "final": 0.2588704584012901,
         "detail": {
-          "quality": 0.4631981912803596,
-          "popularity": 0.009263366188810232,
+          "quality": 0.463197323808242,
+          "popularity": 0.009270270263288116,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.5752008e-8
+      "searchScore": 1.5741149e-8
     },
     {
       "package": {
@@ -482,14 +482,14 @@
         ]
       },
       "score": {
-        "final": 0.25603730360043586,
+        "final": 0.2560513041389433,
         "detail": {
-          "quality": 0.46996395384855516,
-          "popularity": 0.004521282857319702,
-          "maintenance": 0.3241876241308783
+          "quality": 0.4699713235612858,
+          "popularity": 0.004521421261211693,
+          "maintenance": 0.3242211703689528
         }
       },
-      "searchScore": 1.3082815e-8
+      "searchScore": 1.3080915e-8
     },
     {
       "package": {
@@ -519,14 +519,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.25178458728345654,
+        "final": 0.251859258981644,
         "detail": {
-          "quality": 0.5093212998679386,
-          "popularity": 0.0027588612481181407,
-          "maintenance": 0.2800645596749532
+          "quality": 0.509320430104234,
+          "popularity": 0.002759080147051447,
+          "maintenance": 0.28027843399687385
         }
       },
-      "searchScore": 1.0680538e-8
+      "searchScore": 1.0712619e-8
     },
     {
       "package": {
@@ -567,14 +567,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.22734265000789927,
+        "final": 0.2273473057902517,
         "detail": {
-          "quality": 0.3695795095899085,
-          "popularity": 0.0010798712279447074,
-          "maintenance": 0.3316881205747031
+          "quality": 0.3695858702757584,
+          "popularity": 0.0010823916359592799,
+          "maintenance": 0.3316934503855384
         }
       },
-      "searchScore": 2.4278897e-9
+      "searchScore": 2.426524e-9
     },
     {
       "package": {
@@ -613,14 +613,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.21147185582250017,
+        "final": 0.21160202418116034,
         "detail": {
-          "quality": 0.4631981912803596,
-          "popularity": 0.0023676972006737448,
-          "maintenance": 0.20481058405187566
+          "quality": 0.463197323808242,
+          "popularity": 0.0023679466204554783,
+          "maintenance": 0.20518298777579524
         }
       },
-      "searchScore": 1.0511364e-9
+      "searchScore": 1.0586608e-9
     },
     {
       "package": {
@@ -655,14 +655,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2081027963334553,
+        "final": 0.20810649659664612,
         "detail": {
-          "quality": 0.30468159524026195,
-          "popularity": 0.0017356444578019079,
-          "maintenance": 0.3316881205747031
+          "quality": 0.30468078788189823,
+          "popularity": 0.001741578848966377,
+          "maintenance": 0.3316934503855384
         }
       },
-      "searchScore": 7.1699574e-10
+      "searchScore": 7.1659534e-10
     },
     {
       "package": {
@@ -691,14 +691,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20636087656065777,
+        "final": 0.2063637068726517,
         "detail": {
-          "quality": 0.29934131198725705,
-          "popularity": 0.0013361164666701804,
-          "maintenance": 0.3316881205747031
+          "quality": 0.29934054232466667,
+          "popularity": 0.0013395329723237164,
+          "maintenance": 0.3316934503855384
         }
       },
-      "searchScore": 6.350582e-10
+      "searchScore": 6.346497e-10
     },
     {
       "package": {
@@ -740,14 +740,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19441154361914154,
+        "final": 0.19448292277342077,
         "detail": {
-          "quality": 0.5261802908871979,
-          "popularity": 0.024978734735150582,
-          "maintenance": 0.07947114055908422
+          "quality": 0.5261795161111325,
+          "popularity": 0.024978919594895628,
+          "maintenance": 0.07967556023390734
         }
       },
-      "searchScore": 5.09001e-10
+      "searchScore": 5.1092e-10
     },
     {
       "package": {
@@ -791,14 +791,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19297380478988269,
+        "final": 0.1930451803498702,
         "detail": {
-          "quality": 0.5261802908871979,
-          "popularity": 0.02087090950869674,
-          "maintenance": 0.07947114055908422
+          "quality": 0.5261795161111325,
+          "popularity": 0.02087108409903686,
+          "maintenance": 0.07967556023390734
         }
       },
-      "searchScore": 4.392797e-10
+      "searchScore": 4.40958e-10
     },
     {
       "package": {
@@ -837,14 +837,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19359528462214776,
+        "final": 0.19371701759377397,
         "detail": {
-          "quality": 0.4631981912803596,
-          "popularity": 0.0021718595117691834,
-          "maintenance": 0.15393050402548766
+          "quality": 0.463197323808242,
+          "popularity": 0.002172127090283983,
+          "maintenance": 0.15427878848486284
         }
       },
-      "searchScore": 3.33311e-10
+      "searchScore": 3.3574607e-10
     },
     {
       "package": {
@@ -885,36 +885,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17639207144028257,
+        "final": 0.17646333260268426,
         "detail": {
-          "quality": 0.42324059827539534,
-          "popularity": 0.06172855074852709,
-          "maintenance": 0.07947114055908422
+          "quality": 0.4232394154994782,
+          "popularity": 0.061728748202780716,
+          "maintenance": 0.07967556023390734
         }
       },
-      "searchScore": 2.223838e-10
+      "searchScore": 2.2328567e-10
     }
   ],
   "downloads": {
+    "vue-stacks-editor": 91,
+    "vue-drag-zone": 3679,
+    "vue-quill-editor": 3811691,
+    "vue-awesome-swiper": 8002117,
+    "vue-video-player": 1105215,
+    "vue-touch-ripple": 10146,
+    "wonderful-bing-wallpaper": 1998,
+    "@surmon-china/libundler": 2944,
+    "simple-netease-cloud-music": 2878,
+    "@videojs-player/vue": 42005,
+    "player.ts": 85,
+    "veact-use": 669,
+    "vue-codemirror": 2505160,
+    "naivebayes": 754,
+    "veact": 869,
     "emoji-233333": 2066,
     "mongodb-data-api": 1358,
-    "vuniversal": 500,
-    "vue-quill-editor": 3811691,
-    "vue-video-player": 1105215,
-    "wonderful-bing-wallpaper": 1998,
-    "veact": 869,
-    "vue-touch-ripple": 10146,
-    "vue-drag-zone": 3679,
     "@videojs-player/react": 3974,
-    "vue-codemirror": 2505160,
-    "simple-netease-cloud-music": 2878,
-    "naivebayes": 754,
-    "vue-stacks-editor": 91,
-    "@surmon-china/libundler": 2944,
-    "@surmon/libundler": 86,
-    "player.ts": 85,
-    "vue-awesome-swiper": 8002117,
-    "@videojs-player/vue": 42005,
-    "veact-use": 669
+    "vuniversal": 500,
+    "@surmon/libundler": 86
   }
 }
