@@ -2123,7 +2123,7 @@
       "forks": 54,
       "open_issues": 42,
       "watchers": 230,
-      "default_branch": "master"
+      "default_branch": "main"
     },
     {
       "id": 51637951,
@@ -3080,7 +3080,7 @@
       "clone_url": "https://github.com/surmon-china/surmon-china.git",
       "svn_url": "https://github.com/surmon-china/surmon-china",
       "homepage": "",
-      "size": 4962,
+      "size": 4995,
       "stargazers_count": 13,
       "watchers_count": 13,
       "language": "JavaScript",
@@ -5605,7 +5605,7 @@
     }
   ],
   "statistics": {
-    "size": 948354,
+    "size": 948387,
     "stars": 32828,
     "forks": 6222,
     "open_issues": 914,
