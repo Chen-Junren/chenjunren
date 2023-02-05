@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.40300077017093267,
+        "final": 0.4030001156711501,
         "detail": {
-          "quality": 0.6198723840464417,
-          "popularity": 0.30346036620661143,
-          "maintenance": 0.31665121938481766
+          "quality": 0.6198724245433229,
+          "popularity": 0.30346004503811724,
+          "maintenance": 0.3166496358423206
         }
       },
-      "searchScore": 0.00003405833
+      "searchScore": 0.00003360571
     },
     {
       "package": {
@@ -79,14 +79,14 @@
         ]
       },
       "score": {
-        "final": 0.39240600859743846,
+        "final": 0.39240588318335756,
         "detail": {
-          "quality": 0.6477524226892535,
-          "popularity": 0.2328007437596969,
-          "maintenance": 0.3331429184993386
+          "quality": 0.6477524123989631,
+          "popularity": 0.23280040790907686,
+          "maintenance": 0.33314290484426223
         }
       },
-      "searchScore": 0.0000167566
+      "searchScore": 0.000016534155
     },
     {
       "package": {
@@ -127,14 +127,14 @@
         ]
       },
       "score": {
-        "final": 0.31876605717749823,
+        "final": 0.3187636966635364,
         "detail": {
-          "quality": 0.6454486268459434,
-          "popularity": 0.2678999577911365,
-          "maintenance": 0.08961852541947846
+          "quality": 0.645448603766799,
+          "popularity": 0.2678996676946651,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 0.000001921703
+      "searchScore": 0.0000018960417
     },
     {
       "package": {
@@ -171,14 +171,14 @@
         ]
       },
       "score": {
-        "final": 0.33481491506905336,
+        "final": 0.3346550917519565,
         "detail": {
-          "quality": 0.5330516369549627,
-          "popularity": 0.1722023756712912,
-          "maintenance": 0.32751026427889335
+          "quality": 0.5330516668110556,
+          "popularity": 0.17174621240199983,
+          "maintenance": 0.3275097639083997
         }
       },
-      "searchScore": 0.0000016114698
+      "searchScore": 0.0000015758937
     },
     {
       "package": {
@@ -213,14 +213,14 @@
         ]
       },
       "score": {
-        "final": 0.3397580306632789,
+        "final": 0.33975754540001746,
         "detail": {
-          "quality": 0.6373820042399067,
-          "popularity": 0.0912668797615385,
-          "maintenance": 0.3331429184993386
+          "quality": 0.6373820120412218,
+          "popularity": 0.09126550026331184,
+          "maintenance": 0.33314290484426223
         }
       },
-      "searchScore": 0.0000011427809
+      "searchScore": 0.0000011275856
     },
     {
       "package": {
@@ -257,14 +257,14 @@
         ]
       },
       "score": {
-        "final": 0.3159314943029289,
+        "final": 0.3176499585299528,
         "detail": {
-          "quality": 0.595253363427664,
-          "popularity": 0.059110910308465756,
-          "maintenance": 0.3333333333333333
+          "quality": 0.5952534649705601,
+          "popularity": 0.06402519579919802,
+          "maintenance": 0.33332885859733
         }
       },
-      "searchScore": 3.4966e-7
+      "searchScore": 3.842028e-7
     },
     {
       "package": {
@@ -301,14 +301,14 @@
         ]
       },
       "score": {
-        "final": 0.3072642516614156,
+        "final": 0.31236507473955794,
         "detail": {
-          "quality": 0.5959749050204723,
-          "popularity": 0.03372889568173501,
-          "maintenance": 0.3333333333333333
+          "quality": 0.5959750044347494,
+          "popularity": 0.048374266680673836,
+          "maintenance": 0.33326165734542085
         }
       },
-      "searchScore": 1.9963807e-7
+      "searchScore": 2.7415834e-7
     },
     {
       "package": {
@@ -349,14 +349,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.28415211580662836,
+        "final": 0.2841491499493338,
         "detail": {
-          "quality": 0.81993267097899,
-          "popularity": 0.019445230331753927,
-          "maintenance": 0.08961852541947846
+          "quality": 0.8199345424189787,
+          "popularity": 0.019441586809360936,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 7.643904e-8
+      "searchScore": 7.541239e-8
     },
     {
       "package": {
@@ -391,14 +391,14 @@
         ]
       },
       "score": {
-        "final": 0.2622318579070413,
+        "final": 0.2622308640946119,
         "detail": {
-          "quality": 0.4696765463096484,
-          "popularity": 0.0211184954628601,
-          "maintenance": 0.3255354874347021
+          "quality": 0.4696782889401693,
+          "popularity": 0.02111484994976895,
+          "maintenance": 0.3255347998004057
         }
       },
-      "searchScore": 2.1116112e-8
+      "searchScore": 2.0834179e-8
     },
     {
       "package": {
@@ -436,14 +436,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.25865885287813256,
+        "final": 0.2586591866488979,
         "detail": {
-          "quality": 0.46406126243284324,
-          "popularity": 0.008040232910749096,
-          "maintenance": 0.333218264655764
+          "quality": 0.4640614805577063,
+          "popularity": 0.008041007721299166,
+          "maintenance": 0.3332182565118038
         }
       },
-      "searchScore": 1.5444199e-8
+      "searchScore": 1.5239642e-8
     },
     {
       "package": {
@@ -482,14 +482,14 @@
         ]
       },
       "score": {
-        "final": 0.23233598827904497,
+        "final": 0.23233245341477557,
         "detail": {
-          "quality": 0.6454486268459434,
-          "popularity": 0.020956903795555735,
-          "maintenance": 0.08961852541947846
+          "quality": 0.645448603766799,
+          "popularity": 0.020953258412491283,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 5.2129616e-9
+      "searchScore": 5.142592e-9
     },
     {
       "package": {
@@ -530,56 +530,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23373606782023967,
+        "final": 0.23373601320448556,
         "detail": {
-          "quality": 0.37029792996477684,
-          "popularity": 0.018514989994146556,
-          "maintenance": 0.33190412095101524
+          "quality": 0.37029992728222916,
+          "popularity": 0.018513233225130897,
+          "maintenance": 0.33190400968863143
         }
       },
-      "searchScore": 4.2591117e-9
-    },
-    {
-      "package": {
-        "name": "vue-stacks-editor",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "description": "Stacks editor for Vue.",
-        "keywords": [
-          "vue markdown editor",
-          "StackOverflow editor",
-          "StackOverflow markdown editor"
-        ],
-        "date": "2022-07-20T14:57:21.450Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-stacks-editor"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.20836366741326212,
-        "detail": {
-          "quality": 0.30549589997332205,
-          "popularity": 0.0015670145383148578,
-          "maintenance": 0.33190412095101524
-        }
-      },
-      "searchScore": 7.297313e-10
+      "searchScore": 4.2025095e-9
     },
     {
       "package": {
@@ -608,14 +566,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20689185874334082,
+        "final": 0.20689252350349385,
         "detail": {
-          "quality": 0.3001176743837618,
-          "popularity": 0.001971754558162707,
-          "maintenance": 0.33190412095101524
+          "quality": 0.3001178733216413,
+          "popularity": 0.0019735946170871006,
+          "maintenance": 0.33190400968863143
         }
       },
-      "searchScore": 6.643799e-10
+      "searchScore": 6.5560724e-10
     },
     {
       "package": {
@@ -657,14 +615,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19831469648134945,
+        "final": 0.19831150443961526,
         "detail": {
-          "quality": 0.5273803510526287,
-          "popularity": 0.02495459219640964,
-          "maintenance": 0.08961852541947846
+          "quality": 0.5273805370940022,
+          "popularity": 0.024951747060144778,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 6.562767e-10
+      "searchScore": 6.474135e-10
     },
     {
       "package": {
@@ -705,14 +663,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18764634517123982,
+        "final": 0.18764319061873755,
         "detail": {
-          "quality": 0.4244242140494512,
-          "popularity": 0.08272170588453437,
-          "maintenance": 0.08961852541947846
+          "quality": 0.4244245149215039,
+          "popularity": 0.08271886943406426,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 6.224066e-10
+      "searchScore": 6.140019e-10
     },
     {
       "package": {
@@ -756,14 +714,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19670400136514612,
+        "final": 0.1967005294398,
         "detail": {
-          "quality": 0.5273803510526287,
-          "popularity": 0.02035260615011443,
-          "maintenance": 0.08961852541947846
+          "quality": 0.5273805370940022,
+          "popularity": 0.020348961346386904,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 5.580831e-10
+      "searchScore": 5.5052884e-10
     },
     {
       "package": {
@@ -802,14 +760,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19971519566183096,
+        "final": 0.19971174350960813,
         "detail": {
-          "quality": 0.46406126243284324,
-          "popularity": 0.002315646874423697,
-          "maintenance": 0.17053240150265636
+          "quality": 0.4640614805577063,
+          "popularity": 0.002315653073688771,
+          "maintenance": 0.17052234504715771
         }
       },
-      "searchScore": 5.0154675e-10
+      "searchScore": 4.9478077e-10
     },
     {
       "package": {
@@ -848,14 +806,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1996210672555865,
+        "final": 0.1996176153323439,
         "detail": {
-          "quality": 0.46406126243284324,
-          "popularity": 0.0020467085708680863,
-          "maintenance": 0.17053240150265636
+          "quality": 0.4640614805577063,
+          "popularity": 0.0020467154243623245,
+          "maintenance": 0.17052234504715771
         }
       },
-      "searchScore": 4.967511e-10
+      "searchScore": 4.900498e-10
     },
     {
       "package": {
@@ -885,36 +843,78 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19298881381674154,
+        "final": 0.19298562980938042,
         "detail": {
-          "quality": 0.5106190762859496,
-          "popularity": 0.024104591526112024,
-          "maintenance": 0.08961852541947846
+          "quality": 0.510619287842607,
+          "popularity": 0.024101747474955446,
+          "maintenance": 0.08961209097246835
         }
       },
-      "searchScore": 4.520928e-10
+      "searchScore": 4.4598444e-10
+    },
+    {
+      "package": {
+        "name": "vue-stacks-editor",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "description": "Stacks editor for Vue.",
+        "keywords": [
+          "vue markdown editor",
+          "StackOverflow editor",
+          "StackOverflow markdown editor"
+        ],
+        "date": "2022-07-20T14:57:21.450Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-stacks-editor"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.1790954404066677,
+        "detail": {
+          "quality": 0.305496108612604,
+          "popularity": 0.01777218753081017,
+          "maintenance": 0.23207526339172269
+        }
+      },
+      "searchScore": 1.2479008e-10
     }
   ],
   "downloads": {
-    "vue-video-player": 1089319,
-    "vue-codemirror": 2558656,
-    "vue-quill-editor": 3800377,
-    "veact-use": 519,
-    "vue-touch-ripple": 10342,
+    "vue-awesome-swiper": 7984402,
     "simple-netease-cloud-music": 2847,
+    "vue-codemirror": 2558656,
+    "emoji-233333": 2027,
+    "veact": 709,
+    "naivebayes": 755,
     "mongodb-data-api": 1738,
     "wonderful-bing-wallpaper": 1990,
-    "player.ts": 93,
-    "naivebayes": 755,
-    "@surmon/libundler": 92,
-    "@videojs-player/react": 5960,
-    "vue-drag-zone": 3603,
-    "vuniversal": 499,
-    "veact": 709,
     "@videojs-player/vue": 53531,
+    "player.ts": 93,
+    "vue-drag-zone": 3603,
+    "vue-touch-ripple": 10342,
+    "vuniversal": 499,
     "@surmon-china/libundler": 2936,
+    "@surmon/libundler": 92,
+    "vue-quill-editor": 3800377,
+    "veact-use": 519,
+    "vue-video-player": 1089319,
     "vue-stacks-editor": 96,
-    "vue-awesome-swiper": 7984402,
-    "emoji-233333": 2027
+    "@videojs-player/react": 5960
   }
 }
