@@ -43,7 +43,7 @@
           "maintenance": 0.3166085413622319
         }
       },
-      "searchScore": 0.000033960794
+      "searchScore": 0.000033965935
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.33314255058643977
         }
       },
-      "searchScore": 0.00001671805
+      "searchScore": 0.00001672058
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 0.0000018810127
+      "searchScore": 0.0000018812974
     },
     {
       "package": {
@@ -178,7 +178,7 @@
           "maintenance": 0.32749677977832503
         }
       },
-      "searchScore": 0.0000015927318
+      "searchScore": 0.0000015929729
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.3285150903238241
         }
       },
-      "searchScore": 0.0000011460863
+      "searchScore": 0.0000011462598
     },
     {
       "package": {
@@ -264,7 +264,7 @@
           "maintenance": 0.333328850760946
         }
       },
-      "searchScore": 3.7726645e-7
+      "searchScore": 3.7732354e-7
     },
     {
       "package": {
@@ -308,7 +308,7 @@
           "maintenance": 0.3332615271234937
         }
       },
-      "searchScore": 2.7246472e-7
+      "searchScore": 2.7250596e-7
     },
     {
       "package": {
@@ -356,7 +356,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 7.580685e-8
+      "searchScore": 7.581833e-8
     },
     {
       "package": {
@@ -398,7 +398,7 @@
           "maintenance": 0.3255169558772087
         }
       },
-      "searchScore": 2.1017316e-8
+      "searchScore": 2.1020496e-8
     },
     {
       "package": {
@@ -443,7 +443,7 @@
           "maintenance": 0.333098522586261
         }
       },
-      "searchScore": 1.7304792e-8
+      "searchScore": 1.7307412e-8
     },
     {
       "package": {
@@ -489,7 +489,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 6.5135226e-9
+      "searchScore": 6.514508e-9
     },
     {
       "package": {
@@ -537,7 +537,7 @@
           "maintenance": 0.33190112287799245
         }
       },
-      "searchScore": 4.2270414e-9
+      "searchScore": 4.2276813e-9
     },
     {
       "package": {
@@ -573,7 +573,7 @@
           "maintenance": 0.33190112287799245
         }
       },
-      "searchScore": 6.622153e-10
+      "searchScore": 6.6231554e-10
     },
     {
       "package": {
@@ -622,7 +622,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 6.491767e-10
+      "searchScore": 6.4927497e-10
     },
     {
       "package": {
@@ -670,7 +670,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 6.1544286e-10
+      "searchScore": 6.15536e-10
     },
     {
       "package": {
@@ -721,7 +721,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 5.5164723e-10
+      "searchScore": 5.517307e-10
     },
     {
       "package": {
@@ -767,7 +767,7 @@
           "maintenance": 0.17026203808200416
         }
       },
-      "searchScore": 4.969652e-10
+      "searchScore": 4.970404e-10
     },
     {
       "package": {
@@ -813,7 +813,7 @@
           "maintenance": 0.17026203808200416
         }
       },
-      "searchScore": 4.922132e-10
+      "searchScore": 4.922877e-10
     },
     {
       "package": {
@@ -850,7 +850,7 @@
           "maintenance": 0.08944567764609535
         }
       },
-      "searchScore": 4.4693782e-10
+      "searchScore": 4.4700546e-10
     },
     {
       "package": {
@@ -892,29 +892,29 @@
           "maintenance": 0.2318387773230123
         }
       },
-      "searchScore": 1.2474115e-10
+      "searchScore": 1.2476002e-10
     }
   ],
   "downloads": {
-    "vue-quill-editor": 3801485,
-    "@surmon-china/libundler": 2974,
-    "wonderful-bing-wallpaper": 1977,
-    "@videojs-player/react": 6721,
-    "veact": 690,
-    "vue-touch-ripple": 10422,
-    "vue-stacks-editor": 101,
-    "vue-drag-zone": 3552,
-    "mongodb-data-api": 1795,
-    "@videojs-player/vue": 58075,
-    "@surmon/libundler": 93,
     "player.ts": 94,
-    "naivebayes": 761,
-    "vue-codemirror": 2580445,
-    "veact-use": 516,
-    "vue-awesome-swiper": 7983426,
     "vuniversal": 513,
+    "vue-drag-zone": 3552,
+    "@videojs-player/react": 6721,
+    "@surmon-china/libundler": 2974,
+    "veact-use": 516,
+    "vue-codemirror": 2580445,
     "vue-video-player": 1085493,
+    "wonderful-bing-wallpaper": 1977,
+    "emoji-233333": 2007,
+    "vue-quill-editor": 3801485,
+    "vue-awesome-swiper": 7983426,
+    "naivebayes": 761,
+    "@surmon/libundler": 93,
+    "vue-stacks-editor": 101,
+    "vue-touch-ripple": 10422,
+    "mongodb-data-api": 1795,
     "simple-netease-cloud-music": 2833,
-    "emoji-233333": 2007
+    "@videojs-player/vue": 58075,
+    "veact": 690
   }
 }
